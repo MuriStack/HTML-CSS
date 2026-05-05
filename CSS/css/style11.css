@@ -1,0 +1,4 @@
+p{
+    border: 30px solid;
+    border-image: url(../images/dots.png) 30 round;
+}

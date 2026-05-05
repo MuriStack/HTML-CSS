@@ -1,0 +1,17 @@
+#d1,#d2,#d3{
+    border: 15px dotted #000;
+    padding: 50px;
+    background-image: url(images/img.1.jpg);
+}
+
+#d1{
+    background-clip: border-box;
+}
+
+#d2{
+    background-clip: padding-box;
+}
+
+#d3{
+    background-clip: content-box;
+}

@@ -1,0 +1,7 @@
+body{
+    background-image: url(images/img.3.png), url(images/img.2.png);
+    background-repeat: no-repeat, no-repeat;
+    background-size: 400px, 300px;
+    background-position: left top, 400px top;
+    background-attachment: fixed, fixed;
+}

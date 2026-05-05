@@ -1,0 +1,16 @@
+body{
+    background-color: #bbb;
+    background-image: url(images/img.1.jpg), url(images/img.2.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 200px 200px;
+}
+
+p{
+    background-image: url(images/img.4.jpg);
+    font-size: 25pt;
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: 20px;
+    background-color: #0f0;
+}

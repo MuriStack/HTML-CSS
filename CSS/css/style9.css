@@ -1,0 +1,19 @@
+p{
+    width: 300px;
+
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+
+    border-top-color: #000;
+    border-bottom-color: #f00;
+    border-right-color: #0f0;
+    border-left-color: #00f;
+
+}
