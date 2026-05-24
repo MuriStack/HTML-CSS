@@ -126,3 +126,26 @@
 #value-text{
     color: rgb(235, 39, 39);
 }
+.g5{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+#email-header{
+    margin-bottom: 5px;
+}
+#user-email{
+    font-weight: bold;
+}
+#time-email{
+    color: rgb(100, 100, 100);
+}
+#email-content{
+    width: 600px;
+    margin-bottom: 25px;
+    line-height: 25px;
+}
+#other{
+    color: rgb(29, 155, 240);
+}
