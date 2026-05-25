@@ -1,0 +1,52 @@
+#title{
+    font-size: 36px;
+    font-family: Arial;
+    margin-bottom: 25px;
+}
+#enter{
+    font-size: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 350px;
+    background-color: rgb(240, 240, 240);
+    border: none;
+    display: block;
+    margin-bottom: 8px;
+}
+#destination{
+    font-size: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 350px;
+    background-color: rgb(240, 240, 240);
+    border: none;
+    display: block;
+    margin-bottom: 24px;
+}
+#request{
+    background-color: black;
+    border: none;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 18px;
+}
+#schedule{
+    background-color: rgb(240, 240, 240);
+    border: none;
+    color: black;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
