@@ -1,0 +1,59 @@
+div{
+    display: inline-block;
+    margin-right: 20px;
+}
+p{
+    font-family: Arial;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+#profile{
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+#meg{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0 -50px;
+    margin-bottom: 12px;
+}
+#sukuna{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0 -px;
+    margin-bottom: 12px;
+}
+#higuruma{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0 0px;
+    margin-bottom: 12px;
+}
+#name{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 4px;
+    margin-left: 8px;
+}
+#mutual-friends{
+    margin-left: 8px;
+    color: rgb(100, 100, 100);
+    margin-bottom: 12px;
+}
+#add-friend-button{
+    margin-left: 8px;
+    border: none;
+    background-color: rgb(24, 119, 242);
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
